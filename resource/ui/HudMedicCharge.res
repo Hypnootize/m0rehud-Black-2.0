@@ -36,7 +36,7 @@
 		"dulltext"		"0"
 		"brighttext"	"0"
 		"font"			"m0refont48"
-		"fgcolor"   "m0rewhite"
+		"fgcolor"   	"m0rewhite"
 	}
 	
 	"ChargeLabelshadowBig"
