@@ -29,12 +29,7 @@
 		"src_corner_width"	"23"
 			
 		"draw_corner_width"	"7"				// screen size of the corners ( and sides ), proportional
-		"draw_corner_height" 	"7"	
-		
-		if_match
-		{
-			"xpos"	"9999"
-		}
+		"draw_corner_height" 	"7"
 	}
 	"TimePanelProgressBar"
 	{
@@ -85,11 +80,6 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
-		
-		if_match
-		{
-			"xpos"	"9999"
-		}
 	}			
 	"OvertimeBG"
 	{
@@ -115,11 +105,6 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
-		
-		if_match
-		{
-			"xpos"	"9999"
-		}
 	}			
 	"SuddenDeathBG"
 	{
@@ -145,11 +130,6 @@
 		"wrap" 				"0"
 		"font" 				"m0refont12"
 		"fgcolor"			"255 255 255 255"
-		
-		if_match
-		{
-			
-		}
 	}
 	
 	"ServerTimeLimitLabelBG"
@@ -179,11 +159,6 @@
 		"wrap"			"0"
 		"font"			"default"
 		"fgcolor"		"255 255 255 255"
-		
-		if_match
-		{
-			"xpos"	"9999"
-		}
 	}	
 	"SetupBG"
 	{
