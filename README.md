@@ -1,20 +1,14 @@
-# m0rehud Black 2.0
+<div align="center">
 
+# m0rehud-Black 2.0
+### By Quik
 
-<a>LINKS</a>
-====
+**[SCREENSHOTS](../screenshots/showcase.md)** -
+**[INSTALLATION](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/installation/windows_install.md)** -
+**[CONTRIBUTING](https://github.com/Hypnootize/TF2-HUD-GitHub-Resources/blob/main/contributing/github_contributing.md)**
 
-[TeamFortress.tv](https://www.teamfortress.tv/33738/ive-updated-some-huds)
-
-[Screenshot Album](https://imgur.com/a/wStS6)
-
-[Changelogs](https://github.com/Hypnootize/m0rehud-Black-2.0/commits/master)
-
-[Installation](https://imgur.com/a/w3Ah6)
-
-![](https://i.imgur.com/Yj1wr0I.jpg)
-
-<a>CREDITS</a>
-====
-**Created By:** Quik
-
+![Main Menu](../screenshots/01_Main_Menu.jpg)
+![Health Buff](../screenshots/06_Health_Buff.jpg)
+![Health & Ammo Low](../screenshots/07_Health_Ammo_Low.jpg)
+![Scoreboard](../screenshots/10_Scoreboard.jpg)
+![Win & Damage](../screenshots/14_Win.jpg)
